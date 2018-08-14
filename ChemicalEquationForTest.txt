@@ -1,0 +1,109 @@
+Some chemical equation for test
+
+F2 + H2 = HF
+F2 + H2 = 2HF
+
+F2 + H2O = HF + O2
+2F2 + 2H2O = 4HF + O2
+
+Cl2 + FeCl2 = FeCl3
+Cl2 + 2FeCl2 = 2FeCl3
+
+Cl2 + NaBr = NaCl + Br2
+2Cl2 + 2NaBr = 2NaCl + Br2
+
+Cl2 + NaI = NaCl + I2
+Cl2 + 2NaI = 2NaCl + I2
+
+Cl2 + SO2 + H2O = H2SO4 + HCl
+Cl2 + SO2 + 2H2O = H2SO4 +2HCl
+
+S + HNO3 = H2SO4 + NO2 + H2O
+S + 6HNO3 = H2SO4 + 6NO2↑ + 2H2O
+
+S + HNO3 = SO2 + NO + H2O
+3S + 4 HNO3 = 3SO2 + 4NO↑ + 2H2O
+
+PX3 + X2 = PX5
+PX3 + X2 = PX5
+
+C + CO2 = CO
+C + CO2 = 2CO
+
+Si + NaOH + H2O = Na2SiO3 + H2
+Si + 2NaOH + H2O = Na2SiO3 + 2H2↑
+
+Cl2 + H2O = HCl + HClO
+Cl2 + H2O = HCl + HClO
+
+Cl2 + NaOH = NaCl + NaClO + H2O
+Cl2 + 2NaOH = NaCl + NaClO + H2O
+
+Cl2 + Ca(OH)2 = CaCl2 + Ca(ClO)2 + H2O
+2Cl2 + 2Ca(OH)2 = CaCl2 + Ca(ClO)2 + 2H2O
+
+Na + O2 = Na2O
+4Na + O2 = 2Na2O
+
+Fe + HNO3 + H2O = Fe(OH)3 + NH4NO3
+8Fe + 6HNO3 + 15H2O = 8Fe(OH)3 + 3NH4NO3
+
+KMnO4 + FeSO4 + H2SO4 = Fe2(SO4)3 + MnSO4 + K2SO4 + H2O
+2KMnO4 + 10FeSO4 + 8H2SO4 = 5Fe2(SO4)3 + 2MnSO4 + K2SO4 + 8H2O
+
+B10H12CNH3 + NiCl2 + NaOH = Na4(B10H10CNH2)2Ni + NaCl + H2O
+2B10H12CNH3 + NiCl2 + 6NaOH = Na4(B10H10CNH2)2Ni + 2NaCl + 6H2O
+
+Pb(N2)3 + Cr(MnO4)2 = Cr2O3 + MnO2 + Pb3O4 + NO
+15Pb(N2)3 + 44Cr(MnO4)2 = 22Cr2O3 + 88MnO2 + 5Pb3O4 + 90NO
+
+H2 + Ca(CN)2 + NaAlF4 + FeSO4 + MgSiO3 + KI + H3PO4 + PbCrO4 + BrCl + CF2Cl2 + SO2 = PbBr2 + CrCl3 + MgCO3 + KAl(OH)4 + Fe(SCN)3 + PI3 + Na2SiO3 + CaF2 + H2O
+88H2 + 15Ca(CN)2 + 6NaAlF4 + 10FeSO4 + 3MgSiO3 + 6KI + 2H3PO4 + 6PbCrO4 + 12BrCl + 3CF2Cl2 + 20SO2 = 6PbBr2 + 6CrCl3 + 3MgCO3 + 6KAl(OH)4 + 10Fe(SCN)3 + 2PI3 + 3Na2SiO3 + 15CaF2 + 79H2O
+
+Fe36Si5 + H3PO4 + K2Cr2O7 = FePO4 + SiO2 + K3PO4 + CrPO4 + H2O
+9Fe36Si5 + 836H3PO4 + 192K2Cr2O7 = 324FePO4 + 45SiO2 + 128K3PO4 + 384CrPO4 + 1254H2O
+
+P2I4 + P4 + H2O = PH4I + H3PO4
+10P2I4 + 13P4 + 128H2O = 40PH4I + 32H3PO4
+
+PbN6 + Cr(MnO4)2 = Cr2O3 + MnO2 + Pb3O4 + NO
+15PbN6 + 44Cr(MnO4)2 = 22Cr2O3 + 88MnO2 + 5Pb3O4 + 90NO↑
+
+Fe3C + HNO3 = Fe(NO3)3 + CO2 + NO2 + H2O
+Fe3C + 22HNO3 = 3Fe(NO3)3 + CO2 + 13NO2 + 11H2O
+
+K4Fe(CN)6 + H2SO4 + H2O = K2SO4 + FeSO4 + (NH4)2SO4 + CO
+K4Fe(CN)6 + 6H2SO4 + 6H2O = 2K2SO4 + FeSO4 + 3(NH4)2SO4 + 6CO
+
+K4Fe(CN)6 + KMnO4 + H2SO4 = KHSO4 + Fe2(SO4)3 + MnSO4 + HNO3 + CO2 + H2O
+10K4Fe(CN)6 + 122KMnO4 + 299H2SO4 = 162KHSO4 + 5Fe2(SO4)3 + 122MnSO4 + 60HNO3 + 60CO2 + 188H2O
+
+KOCN + KOH + Cl2 = CO2 + N2 + KCl + H2O
+2KOCN + 4KOH + 3Cl2 = 2CO2 + N2 + 6KCl + 2H2O
+
+K4Fe(CN)6 + KMnO4 + H2SO4 = KHSO4 + Fe2(SO4)3 + MnSO4 + HNO3 + CO2 + H2O
+10K4Fe(CN)6 + 122KMnO4 + 299H2SO4 = 162KHSO4 + 5Fe2(SO4)3 + 122MnSO4 + 60HNO3 + 60CO2 + 188H2O
+
+K2NaCo(NO2)6 + KMnO4 + H2SO4 = K2SO4 + NaSO4 + CoSO4 + MnSO4 + HNO3 + H2O
+5K2NaCo(NO2)6 + 12KMnO4 + 33H2SO4 = 11K2SO4 + 5NaSO4 + 5CoSO4 + 12MnSO4 + 30HNO3 + 18H2O
+
+Ag3AsO4 + Zn + H2SO4 = Ag + AsH3 + ZnSO4 + H2O
+2Ag3AsO4 + 11Zn + 11H2SO4 = 6Ag + 2AsH3 + 11ZnSO4 + 8H2O
+
+P4 + CuSO4 + H2O = Cu3P + H3PO4 + H2SO4
+11P4 + 60CuSO4 + 96H2O = 20Cu3P + 24H3PO4 + 60H2SO4
+
+NaBiO3 + MnSO4 + H2SO4 = Na2SO4 + Bi2(SO4)3 + NaMnO4 + H2O
+10NaBiO3 + 4MnSO4 + 14H2SO4 = 3Na2SO4 + 5Bi2(SO4)3 + 4NaMnO4 + 14H2O
+
+K2NaCo(NO2)6 + KMnO4 + H2SO4 = K2SO4 + NaSO4 + CoSO4 + MnSO4 + HNO3 + H2O
+5K2NaCo(NO2)6 + 12KMnO4 + 33H2SO4 = 11K2SO4 + 5NaSO4 + 5CoSO4 + 12MnSO4 + 30HNO3 + 18H2O
+
+Fe(CN)6{4-} + MnO4{-} + H{+} = Mn{2+} + Fe{3+} + CO2 + NO3{-} + H2O
+5Fe(CN)6{4-}+61MnO4{-}+188H{+}=61Mn{2+}+5Fe{3+}+30CO2+30NO3{-}+94H2O
+
+ReCl5 + H2O = Re2Cl9{2-} + ReO4{-} + Cl{-} + H{+}
+7ReCl5 + 12H2O = 2Re2Cl9{2-} + 3ReO4{-} + 17Cl{-} + 24H{+}
+
+Fe{2+} + Cl2 + Br{-} = Fe{3+} + Cl{-} + Br2
+(2x1 -2x2)Fe{2+} + (x1)Cl2 + (2x2)Br{-} = (2x1-2x2)Fe{3+} + (2x1)Cl{-} + (x2)Br2
