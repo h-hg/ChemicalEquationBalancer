@@ -167,7 +167,6 @@ void Matrix<T>::rref(size_t limitCol)
 		}
 		++currentRow;
 	}
-	//std::cout << (*this) << std::endl;
 	//the followed steps is converting the matrix to Reduced row echelon form
   	while(currentRow--)
 	{
@@ -184,30 +183,9 @@ void Matrix<T>::rref(size_t limitCol)
 				for(size_t j = currentCol;j < column;++j)
 					data[i][j] -= foo * data[currentRow][j];
 		}
-		//std::cout << (*this) << std::endl;
 		// unit 1
 		auto foo = data[currentRow][currentCol];
 		for(size_t j = currentCol;j < column;++j)
 			data[currentRow][j] /= foo;
-		//std::cout << (*this) << std::endl;
 	} 
 }
-/*#include "Fraction.cpp"
-using namespace std;
-int main()
-{
-	try{
-	freopen("in.txt","r",stdin);
-	freopen("out_new.txt","w",stdout);
-	size_t row,column;
-	cin >> row >> column;
-	Matrix<Fraction> *p = new Matrix<Fraction>(row,column);
-	cin >> (*p);
-	cout << (*p) << endl;
-	p->rref(p->column);
-	cout << (*p);
-	}catch(...){
-		cout << "exception";
-	}
-	return 0;
-}*/
