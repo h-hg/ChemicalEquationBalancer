@@ -31,13 +31,13 @@ int main()
 * You can use `(`, `)`, `[`, `]` in the chemical formula.
 # What equation can it support
 * Type 1: chemical equation
-	Eg  : NaBiO3 + MnSO4 + H2SO4 = Na2SO4 + Bi2(SO4)3 + NaMnO4 + H2O
-	ans : 10NaBiO3 + 4MnSO4 + 14H2SO4 = 3Na2SO4 + 5Bi2(SO4)3 + 4NaMnO4 + 14H2O
+	Eg  : `NaBiO3 + MnSO4 + H2SO4 = Na2SO4 + Bi2(SO4)3 + NaMnO4 + H2O`
+	ans : `10NaBiO3 + 4MnSO4 + 14H2SO4 = 3Na2SO4 + 5Bi2(SO4)3 + 4NaMnO4 + 14H2O`
 * Type 2: ionic equation
-	Eg  : Fe(CN)6{4-} + MnO4{-} + H{+} = Mn{2+} + Fe{3+} + CO2 + NO3{-} + H2O
-	ans : 5Fe(CN)6{4-}+61MnO4{-}+188H{+}=61Mn{2+}+5Fe{3+}+30CO2+30NO3{-}+94H2O
+	Eg  : `Fe(CN)6{4-} + MnO4{-} + H{+} = Mn{2+} + Fe{3+} + CO2 + NO3{-} + H2O`
+	ans : `5Fe(CN)6{4-}+61MnO4{-}+188H{+}=61Mn{2+}+5Fe{3+}+30CO2+30NO3{-}+94H2O`
 * Type 3: chemical equations with multiple balancing results
-	Eg  : Fe{2+} + Cl2 + Br{-} = Fe{3+} + Cl{-} + Br2
-	ans : (2x1 -2x2)Fe{2+} + (x1)Cl2 + (2x2)Br{-} = (2x1-2x2)Fe{3+} + (2x1)Cl{-} + (x2)Br2
+	Eg  : `Fe{2+} + Cl2 + Br{-} = Fe{3+} + Cl{-} + Br2`
+	ans : `(2x1 -2x2)Fe{2+} + (x1)Cl2 + (2x2)Br{-} = (2x1-2x2)Fe{3+} + (2x1)Cl{-} + (x2)Br2`
 
-**unsupported types** : Na2Sx + (3x+1)NaClO + (2x-2)NaOH = xNa2SO4 + (3x+1)NaCl + (x-1)H2O
+**unsupported types** : `Na2Sx + (3x+1)NaClO + (2x-2)NaOH = xNa2SO4 + (3x+1)NaCl + (x-1)H2O`
